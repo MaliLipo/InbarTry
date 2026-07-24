@@ -35,3 +35,4 @@ def esroni():
             print(i / 10, end=" ") #מדפיס מספר עשרוני עם רווח באמצע
 
 esroni()
+blabl
